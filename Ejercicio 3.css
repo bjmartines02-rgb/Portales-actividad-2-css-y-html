@@ -28,18 +28,19 @@ tfoot td {
     font-weight: bold;
 }
 table {
-  margin: auto;              /* centra la tabla */
-  border-collapse: collapse; /* une las rayas */
-  width: 600px;              /* ancho de la tabla */
+  margin: auto;
+  border-collapse: collapse;
+  width: 600px;
 }
 
 th, td {
-  border: 1px solid black;   /* las rayitas */
-  padding: 8px;              /* espacio interno */
-  text-align: center;        /* centra el texto */
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
 }
 
 caption {
   margin-bottom: 10px;
   font-weight: bold;
 }
+
